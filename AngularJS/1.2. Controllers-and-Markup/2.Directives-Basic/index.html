@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Controllers and Markup in AngularJS</title>
+</head>
+<body ng-app="app">
+    <div ng-controller="mainCtrl">
+        <input type="text" ng-model="name" ng-change="onTextBoxNameChange()" value="" ng-style="inputStyle" />
+        <div>{{name}}</div>
+    </div>
+<script src="Scripts/angular.js"></script>
+<script src="App/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Controllers and Markup in AngularJS</title>
+</head>
+<body ng-app="app">
+    <div ng-controller="mainCtrl">
+        <h1>Hello, {{name}}!</h1>
+        <h3>Visitors:</h3>
+        <ul>
+            <li ng-repeat="name in visitors">{{name}}</li>
+        </ul>
+        <p>{{webSite}}</p>
+    </div>
+    <script src="Scripts/angular.js"></script>
+    <script src="App/app.js"></script>
+</body>
+</html>
