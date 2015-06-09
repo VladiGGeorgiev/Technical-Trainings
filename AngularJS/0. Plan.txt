@@ -1,0 +1,36 @@
+1. 
+	Course Intro Presentation
+	Introduction to AngularJS
+	Controllers and Markup in AngularJS
+2. 
+	Services in AngularJS
+	Routing in AngularJS
+	Directives in AngularJS
+3. 
+	Angular Architecture
+		HTML Compiler
+		Detecting Changes and the Digest
+		Dependency Injection
+	Best Practices with AngularJS
+4. 
+	Building Data Services
+	Accessing data
+	Using $http and $resource
+	CORS
+	Parameters via query string, URL path
+	OData
+5. 
+	Registration and Login
+	User authentication
+	User authorization
+	Validation
+	Bussiness login in Angular service
+6. 
+	Exception handling
+	Testing
+7. Workshop
+
+http://www.pluralsight.com/courses/angular-big-picture
+
+Extended themes:
+	
