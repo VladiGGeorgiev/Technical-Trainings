@@ -1,0 +1,6 @@
+E:\Technical-Trainings\AngularJS\1.1. Introduction-to-AngularJS-Demos\AngularJS-Introduction\bin\AngularJS-Introduction.dll.config
+E:\Technical-Trainings\AngularJS\1.1. Introduction-to-AngularJS-Demos\AngularJS-Introduction\bin\AngularJS-Introduction.dll
+E:\Technical-Trainings\AngularJS\1.1. Introduction-to-AngularJS-Demos\AngularJS-Introduction\bin\AngularJS-Introduction.pdb
+E:\Technical-Trainings\AngularJS\1.1. Introduction-to-AngularJS-Demos\AngularJS-Introduction\obj\Debug\AngularJS-Introduction.csprojResolveAssemblyReference.cache
+E:\Technical-Trainings\AngularJS\1.1. Introduction-to-AngularJS-Demos\AngularJS-Introduction\obj\Debug\AngularJS-Introduction.dll
+E:\Technical-Trainings\AngularJS\1.1. Introduction-to-AngularJS-Demos\AngularJS-Introduction\obj\Debug\AngularJS-Introduction.pdb

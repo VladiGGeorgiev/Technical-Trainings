@@ -23,7 +23,7 @@ app.controller('NewsController',
 					author: 'Vladimir Georgiev',
 					content: 'We are very happy to read this article Svetlin',
 					date: new Date(2014, 12, 14, 13, 22).toDateString(),
-					votes: 0,
+					votes: 0
 				},
 				{
 					author: 'Atanas Rusenov',

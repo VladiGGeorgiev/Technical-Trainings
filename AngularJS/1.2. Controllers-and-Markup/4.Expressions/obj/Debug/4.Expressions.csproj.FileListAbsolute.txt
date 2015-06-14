@@ -1,0 +1,5 @@
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\4.Expressions\bin\4.Expressions.dll.config
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\4.Expressions\bin\4.Expressions.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\4.Expressions\bin\4.Expressions.pdb
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\4.Expressions\obj\Debug\4.Expressions.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\4.Expressions\obj\Debug\4.Expressions.pdb

@@ -5,7 +5,9 @@
 </head>
 <body ng-app="app">
     <div ng-controller="mainCtrl">
-        {{greeting}}
+        <input class="gosho {{pesho}}" ng-style="styles" type="text" ng-model="name" name="name" value=" "/>
+        <div>{{name}}</div>
+        <div ng-bind="name"></div>
     </div>
 <script src="Scripts/angular.js"></script>
 <script src="app.js"></script>

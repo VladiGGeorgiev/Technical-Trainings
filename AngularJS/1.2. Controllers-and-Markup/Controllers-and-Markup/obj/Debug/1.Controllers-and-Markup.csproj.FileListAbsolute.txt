@@ -1,0 +1,6 @@
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\Controllers-and-Markup\bin\Controllers-and-Markup.dll.config
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\Controllers-and-Markup\bin\Controllers-and-Markup.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\Controllers-and-Markup\bin\Controllers-and-Markup.pdb
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\Controllers-and-Markup\obj\Debug\1.Controllers-and-Markup.csprojResolveAssemblyReference.cache
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\Controllers-and-Markup\obj\Debug\Controllers-and-Markup.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\Controllers-and-Markup\obj\Debug\Controllers-and-Markup.pdb

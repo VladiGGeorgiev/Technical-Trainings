@@ -1,0 +1,5 @@
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\5.Filters\bin\5.Filters.dll.config
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\5.Filters\bin\5.Filters.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\5.Filters\bin\5.Filters.pdb
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\5.Filters\obj\Debug\5.Filters.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\5.Filters\obj\Debug\5.Filters.pdb

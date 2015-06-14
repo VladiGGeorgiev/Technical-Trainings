@@ -5,7 +5,7 @@
 </head>
 <body ng-app="app" ng-controller="ExpressionsController">
 
-    <div>{{ [12, 32, 42, 2, 1, 43, 222, 3].sort()}}</div>
+    <div>{{ [12, 32, 42, 2, 1, 43, 222, 3].sort(function(x, y) {return x > y;})}}</div>
     <div>{{ 'Hello ' + 'Pesho' }}</div>
     <div>{{ 'Maraba ' + name }}</div>
 

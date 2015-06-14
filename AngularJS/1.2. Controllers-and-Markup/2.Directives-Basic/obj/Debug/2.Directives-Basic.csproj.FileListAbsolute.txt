@@ -1,0 +1,5 @@
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\2.Directives-Basic\bin\2.Directives-Basic.dll.config
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\2.Directives-Basic\bin\2.Directives-Basic.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\2.Directives-Basic\bin\2.Directives-Basic.pdb
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\2.Directives-Basic\obj\Debug\2.Directives-Basic.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\2.Directives-Basic\obj\Debug\2.Directives-Basic.pdb

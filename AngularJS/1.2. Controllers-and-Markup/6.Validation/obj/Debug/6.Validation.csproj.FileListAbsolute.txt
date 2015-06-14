@@ -1,0 +1,5 @@
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\6.Validation\bin\6.Validation.dll.config
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\6.Validation\bin\6.Validation.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\6.Validation\bin\6.Validation.pdb
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\6.Validation\obj\Debug\6.Validation.dll
+E:\Technical-Trainings\AngularJS\1.2. Controllers-and-Markup\6.Validation\obj\Debug\6.Validation.pdb

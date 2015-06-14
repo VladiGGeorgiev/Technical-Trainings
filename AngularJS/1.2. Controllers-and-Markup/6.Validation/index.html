@@ -34,10 +34,10 @@
     <script>
         var app = angular.module('myApp', []);
         app.controller('validateCtrl', function ($scope) {
-            $scope.user = 'John Doe';
-            $scope.email = 'john.doe@gmail.com';
+            $scope.user = '';
+            $scope.email = '';
 
-            $scope.send = function(form, myForm) {
+            $scope.send = function(user, myForm) {
                 console.log(myForm);
             }
         });

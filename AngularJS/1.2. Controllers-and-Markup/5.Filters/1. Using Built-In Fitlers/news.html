@@ -54,7 +54,7 @@
 					</select>
 				</div>
 				<ul id="comments">
-					<li ng-repeat="comment in news.comments | orderBy:sortOrder | filter:filterBy">
+					<li ng-repeat="comment in news.comments | orderBy:'name' | filter:'name'">
 						<div class="row well">
 							<div class="col-md-1">
 								<div ng-click="upVote(comment)">

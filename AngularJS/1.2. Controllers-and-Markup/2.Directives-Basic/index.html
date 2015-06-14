@@ -5,7 +5,11 @@
 </head>
 <body ng-app="app">
     <div ng-controller="mainCtrl">
-        <input type="text" ng-model="name" ng-change="onTextBoxNameChange()" value="" ng-style="inputStyle" />
+        <input type="text"
+               ng-model="name"
+               ng-change="onTextBoxNameChange()" 
+               value="" 
+               ng-style="inputStyle" />
         <div>{{name}}</div>
     </div>
 <script src="Scripts/angular.js"></script>
