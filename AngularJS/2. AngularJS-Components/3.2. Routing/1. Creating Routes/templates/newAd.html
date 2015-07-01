@@ -1,0 +1,13 @@
+<div class="container">
+	<h1>New Ad</h1>
+	<form name="newAdForm">
+		<fieldset>
+			<label for="adTitle">Ad title:</label>
+            <input id="adTitle" type="text" required
+                   ng-model="ad.Title"
+                   value="{{defaultAdTitle}}" />
+		</fieldset>
+		<button type="button" class="btn btn-default" ng-click="addAd(ad)">Add Ad</button>
+		<button type="button" class="btn btn-default" ng-click="cancelAdd()">Cancel</button>
+	</form>
+</div>

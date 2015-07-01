@@ -1,0 +1,11 @@
+<div class="container">
+	<h1>User ads</h1>
+	<ul>
+		<li ng-repeat="ad in data" class="well">
+			<a href="#/ads/{{ad.id}}">
+				<h1>{{ad.title}}</h1>
+				<div><strong>Price:</strong> {{ad.price}}</div>
+			</a>
+		</li>
+	</ul>
+</div>

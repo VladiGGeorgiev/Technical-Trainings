@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3.1. Services", "http://localhost:10478", "{74D4E4B6-209D-4397-91BA-07874CCBC2A6}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_10478"
+		Debug.AspNetCompiler.PhysicalPath = "3.1. Services\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10478\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_10478"
+		Release.AspNetCompiler.PhysicalPath = "3.1. Services\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10478\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "3.1. Services\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3.2. Routing", "http://localhost:10493", "{F8B6CA5E-AB33-403B-9BA4-CCFEB6600D62}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_10493"
+		Debug.AspNetCompiler.PhysicalPath = "3.2. Routing\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10493\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_10493"
+		Release.AspNetCompiler.PhysicalPath = "3.2. Routing\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10493\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "3.2. Routing\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3.3. Directives", "http://localhost:10511", "{48A89266-7DA9-4EFC-BC26-1D827CDACAFC}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_10511"
+		Debug.AspNetCompiler.PhysicalPath = "3.3. Directives\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10511\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_10511"
+		Release.AspNetCompiler.PhysicalPath = "3.3. Directives\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10511\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "3.3. Directives\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5-Routing", "TEst\HTML5-Routing.csproj", "{A912892E-80BC-469A-ADA7-02E4E77CEA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Location", "Location\Location.csproj", "{59C32CF7-2F0A-4A7B-87E2-242CFBAFC4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsolationScope", "IsolationScope\IsolationScope.csproj", "{0E5E05A9-57DD-4CA7-A1AB-E7F78060CBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D4E4B6-209D-4397-91BA-07874CCBC2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D4E4B6-209D-4397-91BA-07874CCBC2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D4E4B6-209D-4397-91BA-07874CCBC2A6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D4E4B6-209D-4397-91BA-07874CCBC2A6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F8B6CA5E-AB33-403B-9BA4-CCFEB6600D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B6CA5E-AB33-403B-9BA4-CCFEB6600D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B6CA5E-AB33-403B-9BA4-CCFEB6600D62}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B6CA5E-AB33-403B-9BA4-CCFEB6600D62}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{48A89266-7DA9-4EFC-BC26-1D827CDACAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A89266-7DA9-4EFC-BC26-1D827CDACAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A89266-7DA9-4EFC-BC26-1D827CDACAFC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A89266-7DA9-4EFC-BC26-1D827CDACAFC}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A912892E-80BC-469A-ADA7-02E4E77CEA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A912892E-80BC-469A-ADA7-02E4E77CEA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A912892E-80BC-469A-ADA7-02E4E77CEA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A912892E-80BC-469A-ADA7-02E4E77CEA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C32CF7-2F0A-4A7B-87E2-242CFBAFC4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C32CF7-2F0A-4A7B-87E2-242CFBAFC4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C32CF7-2F0A-4A7B-87E2-242CFBAFC4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C32CF7-2F0A-4A7B-87E2-242CFBAFC4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5E05A9-57DD-4CA7-A1AB-E7F78060CBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5E05A9-57DD-4CA7-A1AB-E7F78060CBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5E05A9-57DD-4CA7-A1AB-E7F78060CBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5E05A9-57DD-4CA7-A1AB-E7F78060CBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
