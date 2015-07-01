@@ -1,0 +1,13 @@
+﻿<div>
+    <form ng-hide="isLoggedIn">
+        <div>
+            <input type="text" ng-model="userData.username" name="name" value="" />
+        </div>
+        <div>
+            <input type="password" ng-model="userData.password" name="name" value="" />
+        </div>
+        <button type="submit" ng-click="login(userData)">Login</button>
+        <button type="submit" ng-click="registerUser(userData)">Register</button>
+        <div ng-show="message">{{message}}</div>
+    </form>
+</div>

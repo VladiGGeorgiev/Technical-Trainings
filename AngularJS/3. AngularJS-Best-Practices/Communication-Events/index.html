@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body ng-app="app" ng-controller="mainController">
+    <div ng-controller="wallController">
+        <ul>
+            <li ng-repeat="post in data">
+                Author: {{post.author.username}}
+                <br />                
+                Content: {{post.postContent}}
+                <br />
+                Likes: {{post.likesCount}}
+            </li>
+        </ul>
+    </div>
+    <div ng-controller="sidebarController">
+        <select ng-change="pageSizeChanged(pageSize)" ng-model="pageSize">
+            <option value="1">1</option>
+            <option value="3">3</option>
+            <option value="5">5</option>
+            <option value="7">7</option>
+            <option value="9">9</option>
+        </select>
+    </div>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="app/app.js"></script>
+
+    <script src="app/services/dataService.js"></script>
+</body>
+</html>
