@@ -26,11 +26,3 @@
 	Testing
 	Advanced directives
 7. Angular 2
-
-http://www.pluralsight.com/courses/angular-big-picture
-
-Extended themes:
-"Birimirsky, Kostadin" <KostadinMihaylov.Birimirsky@verint.com>,
-"Emilov, Dilyan" <DilyanEmilov.Iliev@verint.com>,
-"Popov, Deyan" <DeyanDeyanov.Popov@verint.com>,
-"Kostov, Dimitar" <Dimitar.Kostov@verint.com>,
