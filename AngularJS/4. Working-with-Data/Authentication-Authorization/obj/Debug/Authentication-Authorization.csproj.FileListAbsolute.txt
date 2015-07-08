@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data\Authentication-Authorization\bin\Authentication-Authorization.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data\Authentication-Authorization\bin\Authentication-Authorization.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data\Authentication-Authorization\bin\Authentication-Authorization.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data\Authentication-Authorization\obj\Debug\Authentication-Authorization.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data\Authentication-Authorization\obj\Debug\Authentication-Authorization.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data\Authentication-Authorization\obj\Debug\Authentication-Authorization.pdb
