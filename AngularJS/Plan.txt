@@ -25,7 +25,7 @@
 	Exception handling
 	Testing
 	Advanced directives
-7. Workshop
+7. Angular 2
 
 http://www.pluralsight.com/courses/angular-big-picture
 
