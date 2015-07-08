@@ -16,14 +16,15 @@
 	a) Registration, Login, Authorization, Authentication
 	b) Building Data Services, Accessing data, $httpBackend
 	
-	c) Building Data Forms
 5. 
-	Validation
+	Complex Routing
+	Building Data Forms
+	Validation 
 	Bussiness login in Angular service
 6. 
 	Exception handling
 	Testing
-	Advanced directivess
+	Advanced directives
 7. Workshop
 
 http://www.pluralsight.com/courses/angular-big-picture
