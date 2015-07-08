@@ -17,12 +17,14 @@
 	b) Building Data Services, Accessing data, $httpBackend
 	
 5. 
+	newRouter,
+	uiRouter,
 	Complex Routing
+	Validation - form validation "ngMessage"
+	localization
+	
 	Building Data Forms
-	Validation 
-	Bussiness login in Angular service
 6. 
 	Exception handling
 	Testing
-	Advanced directives
 7. Angular 2
