@@ -20,11 +20,9 @@
 	newRouter,
 	uiRouter,
 	Complex Routing
-	Validation - form validation "ngMessage"
 	localization
-	
-	Building Data Forms
 6. 
+	Validation - form validation "ngMessage"
 	Exception handling
 	Testing
 7. Angular 2
