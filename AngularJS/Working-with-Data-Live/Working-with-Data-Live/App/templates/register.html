@@ -1,0 +1,21 @@
+﻿<div>
+    <form name="loginForm" novalidate="novalidate">
+        <label for="username">Username:</label>
+        <input type="text" required ng-model="user.username" id="username" value="" />
+        <br />
+        <label for="password">Password:</label>
+        <input type="password" required ng-model="user.password" id="password" value="" />
+        <br />
+        <label for="confirmPassword">Confirm Password:</label>
+        <input type="password" required ng-model="user.confirmPassword" id="confirmPassword" value="" />
+        <br />
+        <label for="email">Email:</label>
+        <input type="email" required ng-model="user.email" id="email" value="" />
+        <br />
+        <label for="name">Name:</label>
+        <input type="text" required ng-model="user.name" id="name" value="" />
+        <br />
+        <button ng-click="register(user, loginForm)">Register</button>
+        <div ng-bind="message"></div>
+    </form>
+</div>

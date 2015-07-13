@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data-Live\Working-with-Data-Live\bin\Working-with-Data-Live.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data-Live\Working-with-Data-Live\bin\Working-with-Data-Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data-Live\Working-with-Data-Live\bin\Working-with-Data-Live.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data-Live\Working-with-Data-Live\obj\Debug\Working-with-Data-Live.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data-Live\Working-with-Data-Live\obj\Debug\Working-with-Data-Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\Working-with-Data-Live\Working-with-Data-Live\obj\Debug\Working-with-Data-Live.pdb

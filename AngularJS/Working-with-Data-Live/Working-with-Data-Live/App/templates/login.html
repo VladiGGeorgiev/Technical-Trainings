@@ -1,0 +1,12 @@
+﻿<div>
+    <form name="loginForm" novalidate="novalidate">
+        <label for="username">Username:</label>
+        <input type="text" required ng-model="user.username" id="username" value="" /> 
+        <br />
+        <label for="password">Password:</label>
+        <input type="password" required ng-model="user.password" id="password" value="" /> 
+        <br />
+        <button ng-click="login(user, loginForm)">Login</button>
+        <div ng-bind="message"></div>
+    </form>
+</div>

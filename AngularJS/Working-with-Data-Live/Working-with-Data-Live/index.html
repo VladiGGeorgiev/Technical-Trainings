@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body ng-app="app" ng-controller="MainController">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#/">Home</a></li>
+                <li ng-hide="user.isLoggedIn"><a href="#/login">Login</a></li>
+                <li ng-hide="user.isLoggedIn"><a href="#/register">Register</a></li>
+                <li ng-show="user.isLoggedIn"><button ng-controller="AuthController" ng-click="logout()">Logout</button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div>{{appName}}</div>
+    <ng-view></ng-view>
+    <!-- Libraries -->
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    
+    <!-- Modules -->
+    <script src="App/app.js"></script>
+    <script src="Data/services.data.js"></script>
+    
+    <!-- Controllers -->    
+    <script src="App/controllers/main-controller.js"></script>
+    <script src="App/controllers/auth-controller.js"></script>
+    
+    <!-- Services -->    
+    <script src="Data/services.authentication.js"></script>
+    <script src="Data/services.currentUser.js"></script>
+    <!-- Directives-->
+</body>
+</html>
