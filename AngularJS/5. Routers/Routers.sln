@@ -1,0 +1,154 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ngRoute", "http://localhost:55553", "{14C67423-4BE8-4B6C-A9A5-554CADCF8E54}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55553"
+		Debug.AspNetCompiler.PhysicalPath = "ngRoute\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55553\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55553"
+		Release.AspNetCompiler.PhysicalPath = "ngRoute\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55553\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "ngRoute\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ngNewRouter", "http://localhost:55910", "{496AD000-8901-4115-8456-9E4BEBCC9672}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55910"
+		Debug.AspNetCompiler.PhysicalPath = "ngNewRouter\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55910\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55910"
+		Release.AspNetCompiler.PhysicalPath = "ngNewRouter\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55910\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "ngNewRouter\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ngUIRouter", "http://localhost:56778", "{CA52B1EB-3963-453C-AFCD-02805FBD667B}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56778"
+		Debug.AspNetCompiler.PhysicalPath = "ngUIRouter\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56778\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56778"
+		Release.AspNetCompiler.PhysicalPath = "ngUIRouter\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56778\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "ngUIRouter\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ngNewRouter-UI", "http://localhost:56961", "{D7F54DD8-4473-42A2-9CE7-36E6BEA00E64}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56961"
+		Debug.AspNetCompiler.PhysicalPath = "ngNewRouter-UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56961\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56961"
+		Release.AspNetCompiler.PhysicalPath = "ngNewRouter-UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56961\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "ngNewRouter-UI\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i18n", "..\i18n\i18n.csproj", "{88E6C850-9417-44D3-AB5F-134E5B39FA3C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "i18n-2", "http://localhost:63138", "{8B3A7AD8-C961-438A-8352-B5E8D7DC3164}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63138"
+		Debug.AspNetCompiler.PhysicalPath = "..\i18n\i18n-2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63138\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63138"
+		Release.AspNetCompiler.PhysicalPath = "..\i18n\i18n-2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63138\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\i18n\i18n-2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internationalization", "Internationalization\Internationalization.csproj", "{D03E5C99-0FB5-4909-A9C9-96EEDEE34185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C67423-4BE8-4B6C-A9A5-554CADCF8E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C67423-4BE8-4B6C-A9A5-554CADCF8E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C67423-4BE8-4B6C-A9A5-554CADCF8E54}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C67423-4BE8-4B6C-A9A5-554CADCF8E54}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{496AD000-8901-4115-8456-9E4BEBCC9672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496AD000-8901-4115-8456-9E4BEBCC9672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496AD000-8901-4115-8456-9E4BEBCC9672}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{496AD000-8901-4115-8456-9E4BEBCC9672}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CA52B1EB-3963-453C-AFCD-02805FBD667B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA52B1EB-3963-453C-AFCD-02805FBD667B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA52B1EB-3963-453C-AFCD-02805FBD667B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA52B1EB-3963-453C-AFCD-02805FBD667B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D7F54DD8-4473-42A2-9CE7-36E6BEA00E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F54DD8-4473-42A2-9CE7-36E6BEA00E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F54DD8-4473-42A2-9CE7-36E6BEA00E64}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F54DD8-4473-42A2-9CE7-36E6BEA00E64}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{88E6C850-9417-44D3-AB5F-134E5B39FA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E6C850-9417-44D3-AB5F-134E5B39FA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E6C850-9417-44D3-AB5F-134E5B39FA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E6C850-9417-44D3-AB5F-134E5B39FA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3A7AD8-C961-438A-8352-B5E8D7DC3164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3A7AD8-C961-438A-8352-B5E8D7DC3164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3A7AD8-C961-438A-8352-B5E8D7DC3164}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3A7AD8-C961-438A-8352-B5E8D7DC3164}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D03E5C99-0FB5-4909-A9C9-96EEDEE34185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03E5C99-0FB5-4909-A9C9-96EEDEE34185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03E5C99-0FB5-4909-A9C9-96EEDEE34185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03E5C99-0FB5-4909-A9C9-96EEDEE34185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

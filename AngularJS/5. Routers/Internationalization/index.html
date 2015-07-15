@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body ng-app="app" ng-controller="MainController">
+    <select ng-model="lang" ng-change="changeLang()">
+        <option value="bg">Bulgarian</option>
+        <option value="en">English</option>
+    </select>
+    <br />
+    {{date | date}}
+    <br />
+    {{amount | currency}}
+    <br />
+    <span>{{'hi'| translate}}</span>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-translate.js"></script>
+    <script src="app.js"></script>
+    <script src="Scripts/dynamic-locale.js"></script>
+</body>
+</html>

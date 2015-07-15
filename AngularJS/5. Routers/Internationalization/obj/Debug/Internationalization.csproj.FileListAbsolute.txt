@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\5. Routers\Internationalization\bin\Internationalization.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\5. Routers\Internationalization\bin\Internationalization.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\5. Routers\Internationalization\bin\Internationalization.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\5. Routers\Internationalization\obj\Debug\Internationalization.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\5. Routers\Internationalization\obj\Debug\Internationalization.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\5. Routers\Internationalization\obj\Debug\Internationalization.pdb
