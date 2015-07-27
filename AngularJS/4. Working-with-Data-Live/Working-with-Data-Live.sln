@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working-with-Data-Live", "Working-with-Data-Live\Working-with-Data-Live.csproj", "{23817A24-5808-425F-9534-A31E0FCEBAD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working-with-Data-Live-Tests", "..\6. Validation-and-Unit-Testing\UnitTesting\Working-with-Data-Live-Tests\Working-with-Data-Live-Tests.csproj", "{AEB6D0E4-C569-4847-AC78-603C0FB93187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{23817A24-5808-425F-9534-A31E0FCEBAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23817A24-5808-425F-9534-A31E0FCEBAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23817A24-5808-425F-9534-A31E0FCEBAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB6D0E4-C569-4847-AC78-603C0FB93187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB6D0E4-C569-4847-AC78-603C0FB93187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB6D0E4-C569-4847-AC78-603C0FB93187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB6D0E4-C569-4847-AC78-603C0FB93187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

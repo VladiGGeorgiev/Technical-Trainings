@@ -52,11 +52,16 @@
                 currentUser.username = '';
                 currentUser.isLoggedIn = false;
             }
+           
+            function testMethod() {
+                return "Pesho";
+            }
 
             return {
                 user: currentUser,
                 setData: setData,
-                clearData: clearData
+                clearData: clearData,
+                testMethod: testMethod
             }
         }]);
 }());

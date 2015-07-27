@@ -1,3 +1,11 @@
 ﻿<div>
     <p>Hello, {{user.username}}!</p>
+    <button ng-click="loadFeed()">Load feeds</button>
+    <ul>
+        <li ng-repeat="post in feed">
+            Author: {{post.author.username}}
+            <br />
+            Content: {{post.postContent}}
+        </li>
+    </ul>
 </div>
