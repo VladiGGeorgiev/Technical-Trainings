@@ -1,0 +1,5 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Live\bin\Live.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Live\bin\Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Live\bin\Live.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Live\obj\Debug\Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Live\obj\Debug\Live.pdb

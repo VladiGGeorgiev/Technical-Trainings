@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\7. Structural-Directives-ngRepeat\bin\_7.Structural_Directives_ngRepeat.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\7. Structural-Directives-ngRepeat\bin\_7.Structural_Directives_ngRepeat.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\7. Structural-Directives-ngRepeat\bin\_7.Structural_Directives_ngRepeat.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\7. Structural-Directives-ngRepeat\obj\Debug\7. Structural-Directives-ngRepeat.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\7. Structural-Directives-ngRepeat\obj\Debug\_7.Structural_Directives_ngRepeat.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\7. Structural-Directives-ngRepeat\obj\Debug\_7.Structural_Directives_ngRepeat.pdb

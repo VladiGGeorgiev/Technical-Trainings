@@ -1,0 +1,5 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Sample-Directives-Live\bin\Sample-Directives-Live.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Sample-Directives-Live\bin\Sample-Directives-Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Sample-Directives-Live\bin\Sample-Directives-Live.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Sample-Directives-Live\obj\Debug\Sample-Directives-Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\Sample-Directives-Live\obj\Debug\Sample-Directives-Live.pdb

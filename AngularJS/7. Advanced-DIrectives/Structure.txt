@@ -1,0 +1,11 @@
+1. Basic directives
+2. Types of Directives
+	Components - Business / Data 
+	Decorators - ng-click
+	Structural/Templating - ng-repeat
+3. Multiple directives
+	Two element directives
+	Two isolated directives on one element - error
+	Two inherited directives on one element - same scope
+	Inherited scope -> use parent variables (collapse)
+	=, @, &

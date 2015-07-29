@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\5. Transclusion\bin\_5.Transclusion.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\5. Transclusion\bin\_5.Transclusion.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\5. Transclusion\bin\_5.Transclusion.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\5. Transclusion\obj\Debug\5. Transclusion.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\5. Transclusion\obj\Debug\_5.Transclusion.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\5. Transclusion\obj\Debug\_5.Transclusion.pdb

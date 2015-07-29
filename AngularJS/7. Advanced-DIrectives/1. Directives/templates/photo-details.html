@@ -1,0 +1,15 @@
+﻿<div class="panel panel-primary">
+    <div class="panel-heading">{{ photo.name }}</div>
+    <div class="panel-body">
+        <strong>Comments:</strong>
+        <ul>
+            <li ng-repeat="comment in photo.comments">
+                {{ comment.content }}
+            </li>
+        </ul>
+        <div>
+            Bonus: {{ photo.bonus }}
+        </div>
+        <button class="btn btn-success" ng-click="doIt(photo)">Just do it!</button>
+    </div>
+</div>

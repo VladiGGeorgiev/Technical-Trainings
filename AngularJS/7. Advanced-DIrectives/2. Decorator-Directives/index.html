@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.css" rel="stylesheet" />
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="app.js"></script>
+</head>
+<body ng-controller="MainController">
+    <video controls="controls" event-pause="handlePause()" preload="none">
+        <source src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4" />
+        <source src="http://media.w3.org/2010/05/sintel/trailer.webm5" type="video/webm" />
+        <source src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg" />
+    </video>
+    <ul>
+        <li ng-repeat="message in messages">{{message}}</li>
+    </ul>
+</body>
+</html>

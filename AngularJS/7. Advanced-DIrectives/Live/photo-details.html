@@ -1,0 +1,14 @@
+﻿<div class="panel">
+    <div class="panel-heading">
+        <h1>{{photo.name}}</h1>
+    </div>
+    <div class="panel-body">
+        Comments:
+        <ul>
+            <li ng-repeat="comment in photo.comments">
+                {{comment.content}}
+            </li>
+        </ul>
+    </div>
+
+</div>

@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\4. Decorator-Watch\bin\_4.Decorator_Watch.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\4. Decorator-Watch\bin\_4.Decorator_Watch.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\4. Decorator-Watch\bin\_4.Decorator_Watch.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\4. Decorator-Watch\obj\Debug\4. Decorator-Watch.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\4. Decorator-Watch\obj\Debug\_4.Decorator_Watch.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\4. Decorator-Watch\obj\Debug\_4.Decorator_Watch.pdb

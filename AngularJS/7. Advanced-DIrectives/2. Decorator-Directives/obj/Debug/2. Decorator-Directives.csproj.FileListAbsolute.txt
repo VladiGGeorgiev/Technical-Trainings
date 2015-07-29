@@ -1,0 +1,5 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\2. Decorator-Directives\bin\_2.Decorator_Directives.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\2. Decorator-Directives\bin\_2.Decorator_Directives.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\2. Decorator-Directives\obj\Debug\2. Decorator-Directives.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\2. Decorator-Directives\obj\Debug\_2.Decorator_Directives.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\2. Decorator-Directives\obj\Debug\_2.Decorator_Directives.pdb

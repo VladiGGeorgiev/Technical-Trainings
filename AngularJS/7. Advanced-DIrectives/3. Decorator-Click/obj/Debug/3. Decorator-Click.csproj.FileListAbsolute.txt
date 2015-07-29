@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\3. Decorator-Click\bin\_3.Decorator_Click.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\3. Decorator-Click\bin\_3.Decorator_Click.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\3. Decorator-Click\bin\_3.Decorator_Click.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\3. Decorator-Click\obj\Debug\3. Decorator-Click.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\3. Decorator-Click\obj\Debug\_3.Decorator_Click.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\3. Decorator-Click\obj\Debug\_3.Decorator_Click.pdb

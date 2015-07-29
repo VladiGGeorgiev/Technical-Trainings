@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\6. Lazy-Load-Directives\bin\_6.Lazy_Load_Directives.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\6. Lazy-Load-Directives\bin\_6.Lazy_Load_Directives.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\6. Lazy-Load-Directives\bin\_6.Lazy_Load_Directives.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\6. Lazy-Load-Directives\obj\Debug\6. Lazy-Load-Directives.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\6. Lazy-Load-Directives\obj\Debug\_6.Lazy_Load_Directives.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\7. Advanced-DIrectives\6. Lazy-Load-Directives\obj\Debug\_6.Lazy_Load_Directives.pdb

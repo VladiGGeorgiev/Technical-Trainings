@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Directives", "1. Directives\1. Directives.csproj", "{CA36B8C4-8097-46B7-B877-D0EE2FBC2ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Decorator-Directives", "2. Decorator-Directives\2. Decorator-Directives.csproj", "{D8D34CE4-CA44-4E71-95E4-99EEF03B3C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Decorator-Click", "3. Decorator-Click\3. Decorator-Click.csproj", "{3777154E-C888-4940-A83F-0A66FED3F16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Decorator-Watch", "4. Decorator-Watch\4. Decorator-Watch.csproj", "{4A0F68F6-EB59-4D20-90D5-3C4CB10CC852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Transclusion", "5. Transclusion\5. Transclusion.csproj", "{A1863F8E-4FE1-4C7D-AD0A-C40AC315255D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Lazy-Load-Directives", "6. Lazy-Load-Directives\6. Lazy-Load-Directives.csproj", "{2A77CF5F-62DB-4E66-B58A-E9D71F39B28E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Structural-Directives-ngRepeat", "7. Structural-Directives-ngRepeat\7. Structural-Directives-ngRepeat.csproj", "{8638897E-42EC-43D8-B530-F7CD545C2B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live", "Live\Live.csproj", "{A905E4F3-5F92-46CB-9113-87241426FE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-Directives-Live", "Sample-Directives-Live\Sample-Directives-Live.csproj", "{181EDDBD-B0A5-4AE0-B46B-962276A315EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA36B8C4-8097-46B7-B877-D0EE2FBC2ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA36B8C4-8097-46B7-B877-D0EE2FBC2ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA36B8C4-8097-46B7-B877-D0EE2FBC2ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA36B8C4-8097-46B7-B877-D0EE2FBC2ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D34CE4-CA44-4E71-95E4-99EEF03B3C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D34CE4-CA44-4E71-95E4-99EEF03B3C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D34CE4-CA44-4E71-95E4-99EEF03B3C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D34CE4-CA44-4E71-95E4-99EEF03B3C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3777154E-C888-4940-A83F-0A66FED3F16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3777154E-C888-4940-A83F-0A66FED3F16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3777154E-C888-4940-A83F-0A66FED3F16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3777154E-C888-4940-A83F-0A66FED3F16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0F68F6-EB59-4D20-90D5-3C4CB10CC852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0F68F6-EB59-4D20-90D5-3C4CB10CC852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0F68F6-EB59-4D20-90D5-3C4CB10CC852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0F68F6-EB59-4D20-90D5-3C4CB10CC852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1863F8E-4FE1-4C7D-AD0A-C40AC315255D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1863F8E-4FE1-4C7D-AD0A-C40AC315255D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1863F8E-4FE1-4C7D-AD0A-C40AC315255D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1863F8E-4FE1-4C7D-AD0A-C40AC315255D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A77CF5F-62DB-4E66-B58A-E9D71F39B28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A77CF5F-62DB-4E66-B58A-E9D71F39B28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A77CF5F-62DB-4E66-B58A-E9D71F39B28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A77CF5F-62DB-4E66-B58A-E9D71F39B28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8638897E-42EC-43D8-B530-F7CD545C2B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8638897E-42EC-43D8-B530-F7CD545C2B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8638897E-42EC-43D8-B530-F7CD545C2B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8638897E-42EC-43D8-B530-F7CD545C2B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A905E4F3-5F92-46CB-9113-87241426FE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A905E4F3-5F92-46CB-9113-87241426FE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A905E4F3-5F92-46CB-9113-87241426FE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A905E4F3-5F92-46CB-9113-87241426FE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181EDDBD-B0A5-4AE0-B46B-962276A315EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181EDDBD-B0A5-4AE0-B46B-962276A315EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181EDDBD-B0A5-4AE0-B46B-962276A315EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181EDDBD-B0A5-4AE0-B46B-962276A315EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
