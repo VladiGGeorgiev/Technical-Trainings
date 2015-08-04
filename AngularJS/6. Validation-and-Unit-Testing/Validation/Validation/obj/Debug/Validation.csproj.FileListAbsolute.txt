@@ -1,0 +1,6 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation\bin\Validation.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation\bin\Validation.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation\bin\Validation.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation\obj\Debug\Validation.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation\obj\Debug\Validation.pdb

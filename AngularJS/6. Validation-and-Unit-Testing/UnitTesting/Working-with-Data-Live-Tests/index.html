@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/jasmine.css" rel="stylesheet" />
+
+    <script src="Scripts/jasmine.js"></script>
+    <script src="Scripts/jasmine-html.js"></script>
+    <script src="Scripts/sinon-1.9.1.js"></script>
+
+    <script src="http://localhost:62916/Scripts/angular.js"></script>
+    <script src="http://localhost:62916/Scripts/angular-route.js"></script>
+    <script src="Scripts/angular-mocks.js"></script>
+    
+    <script src="http://localhost:62916/App/app.js"></script>
+
+    <script src="http://localhost:62916/Data/services.data.js"></script>
+    <script src="http://localhost:62916/App/controllers/auth-controller.js"></script>
+    <script src="http://localhost:62916/Data/services.currentUser.js"></script>
+    <script src="http://localhost:62916/Data/services.authentication.js"></script>
+
+    <script src="http://localhost:62916/Data/services.data.profile.js"></script>
+    <script src="http://localhost:62916/App/controllers/main-controller.js"></script>
+    <script src="controllers/main-controller-tests.js"></script>
+    <script>
+        (function () {
+            var jasmineEnv = jasmine.getEnv();
+
+            var htmlReporter = new jasmine.TrivialReporter();
+            jasmineEnv.addReporter(htmlReporter);
+
+            //jasmineEnv.specFilter = function (spec) {
+            //    return htmlReporter.specFilter(spec);
+            //};
+
+            window.onload = function () {
+                jasmineEnv.execute();
+            }
+        }());
+    </script>
+</head>
+<body>
+</body>
+</html>

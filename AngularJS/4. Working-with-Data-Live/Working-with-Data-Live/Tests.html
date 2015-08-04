@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/jasmine.css" rel="stylesheet" />
+</head>
+<body>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/jasmine.js"></script>
+    <script src="Scripts/jasmine-html.js"></script>
+    <script src="Scripts/sinon-1.9.1.js"></script>
+
+    <script src="Scripts/angular-mocks.js"></script>
+
+    <!-- Modules -->
+    <script src="App/app.js"></script>
+    <script src="Data/services.data.js"></script>
+
+    <!-- Controllers -->
+    <script src="App/controllers/main-controller.js"></script>
+    <script src="App/controllers/auth-controller.js"></script>
+
+    <!-- Services -->
+    <script src="Data/services.authentication.js"></script>
+    <script src="Data/services.currentUser.js"></script>
+    <script src="Data/services.data.profile.js"></script>
+
+
+    <script>
+    (function () {
+        var jasmineEnv = jasmine.getEnv();
+
+        var htmlReporter = new jasmine.TrivialReporter();
+        jasmineEnv.addReporter(htmlReporter);
+
+        jasmineEnv.specFilter = function (spec) {
+            return htmlReporter.specFilter(spec);
+        };
+
+        window.onload = function () {
+            jasmineEnv.execute();
+        }
+    }());
+    </script>
+
+    <script src="Tests/controllers/main-controller-tests.js"></script>
+
+
+</body>
+</html>

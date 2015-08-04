@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>AngularJS - Validation</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.css" rel="stylesheet" />
+</head>
+<body ng-app="app" ng-controller="MainController">
+    <div>
+        <form name="myForm" novalidate>
+            <div class="form-group" ng-class="{ 'has-error': myForm.username.$invalid && myForm.username.$dirty }">
+                <label for="username" class="control-label col-md-2">* Username</label>
+                <div class="col-md-4">
+                    <input type="text"
+                           id="username"
+                           name="username"
+                           ng-model="vm.user.username"
+                           value="" 
+                           required
+                           ng-minlength="5" />
+
+                    <span class="has-error">
+                        <span ng-messages="myForm.username.$error" ng-if="myForm.username.$dirty">
+                            <span ng-message="required">The username is required</span>
+                            <span ng-message="minlength">The fullname should be at least 5 characters</span>
+                        </span>
+                    </span>
+                </div>
+            </div>
+            <div class="form-group" ng-class="{ 'has-error': myForm.fullName.$invalid && myForm.fullName.$dirty }">
+                <label for="fullname" class="control-label col-md-2">Full Name</label>
+                <div class="col-md-4">
+                    <input type="text"
+                           id="fullName"
+                           name="fullName"
+                           ng-model="vm.user.fullName"
+                           ng-minlength="3"
+                           ng-maxlength="20"
+                           value="" />
+
+                    <span class="has-error">
+                        <span ng-messages="myForm.fullName.$error" ng-if="myForm.username.$dirty">
+                            <span ng-message="minlength">The fullname should be at least 3 characters</span>
+                            <span ng-message="maxlength">The fullname should be at max 20 characters</span>
+                        </span>
+                    </span>
+                </div>
+            </div>
+            <div class="form-group" ng-class="{ 'has-error': myForm.email.$invalid && myForm.email.$dirty }">
+                <label for="email" class="control-label col-md-2">Email</label>
+                <div class="col-md-4">
+                    <input type="text"
+                           id="email"
+                           name="email"
+                           ng-model="vm.user.email"
+                           required
+                           ng-pattern="/^[a-z]+[a-z0-9._]+@[a-z]+\.[a-z.]{2,5}$/"
+                           value="" />
+                    <span class="has-error">
+                        <span ng-messages="myForm.email.$error" ng-if="myForm.email.$dirty">
+                            <span ng-message="required">The email is required</span>
+                            <span ng-message="pattern">The email is invalid</span>
+                        </span>
+                    </span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="password" class="control-label col-md-2">Password</label>
+                <div class="col-md-4">
+                    <input type="password"
+                           id="password"
+                           name="password"
+                           ng-model="vm.user.password"
+                           value="" />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-4 col-md-offset-2">
+                    <span>
+                        <button class="btn btn-primary" ng-click="submit(vm.user, myForm)">Submit</button>
+                    </span>
+                    <span>
+                        <button class="btn btn-default" ng-click="cancel()">Cancel</button>
+                    </span>
+                </div>
+            </div>
+        </form>
+    </div>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/angular-messages.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

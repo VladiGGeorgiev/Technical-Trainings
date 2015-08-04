@@ -1,0 +1,5 @@
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation-Live\bin\Validation-Live.dll.config
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation-Live\bin\Validation-Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation-Live\bin\Validation-Live.pdb
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation-Live\obj\Debug\Validation-Live.dll
+C:\Projects\Technical Trainings\Technical-Trainings\AngularJS\6. Validation-and-Unit-Testing\Validation\Validation-Live\obj\Debug\Validation-Live.pdb
